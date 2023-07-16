@@ -1,7 +1,29 @@
-#header{
-    color:antiquewhite
+#top{
+    height: 125px;
+    width: auto;
+    color: rgb(255, 255, 255);
+    background-color: rgba(61, 56, 56, 0.479);
+    text-align: center;
 }
 
 #TY{
     margin-bottom: 150px;
+    text-align: center;
+}
+
+#centerTXT{
+    text-align: center;
+}
+
+#sub2{
+    text-align: center;
+}
+
+#justleft{
+    text-align: right;
+}
+
+#justright{
+    text-align: left;
+    margin-top: -4cm;
 }
